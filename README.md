@@ -3,8 +3,8 @@ Hi, I’m Ahmedaliserag
 Tittle:Junior Embedded Software Engineer | NTI Automotive Embedded systems Trainee
 
 B.Sc in Mechatronics Engineering, 
-I am interested in robotics, embedded system, and automation engineering.
-Currently,I am studying and learning embedded  systems.
+
+An initiative-taking graduate with a passion for making innovative technologies and eager to learn new things, Seeking an Embedded Systems Engineer position with a career opportunity in a leading company, where I can use my skills, knowledge, and constantly learn.
 
  How to reach me 
  www.linkedin.com/in/ahmedaliserag
